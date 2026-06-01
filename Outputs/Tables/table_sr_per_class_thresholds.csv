@@ -1,0 +1,3 @@
+rule,coverage,selective_accuracy,selective_balanced_accuracy
+per-class thresholds,0.63,0.8685,0.1947
+global threshold (matched coverage),0.63,0.8605,0.34

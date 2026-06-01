@@ -1,0 +1,19 @@
+figure,purpose
+fig_ieee_core_ablation_performance.png,Core ablation comparison
+fig_ieee_cv_stability.png,Cross-validation stability
+fig_ieee_noise_curve.png,Gaussian-noise robustness
+fig_ieee_perturbation_summary.png,Multi-perturbation robustness
+fig_ieee_reliability_diagram.png,Calibration and reliability
+fig_ieee_calibration_gap.png,Calibration gaps
+fig_ieee_confidence_accuracy.png,Confidence-aware decision behavior
+fig_ieee_entropy_correctness.png,Uncertainty/correctness relationship
+fig_ieee_feature_importance_heatmap.png,Corrected global feature importance
+fig_ieee_top_feature_importance_decay.png,Importance concentration
+fig_ieee_cumulative_feature_importance.png,Cumulative importance structure
+fig_ieee_perturbation_sensitivity_map.png,Perturbation sensitivity
+fig_ieee_importance_sensitivity_scatter.png,Explanation-stability relationship
+fig_sr_reliability_temperature.png,[SR] Calibration before/after temperature scaling
+fig_sr_error_detection_roc.png,[SR] Entropy/confidence misclassification detection
+fig_sr_risk_coverage.png,[SR] Risk-coverage / selective prediction
+fig_sr_selective_accuracy.png,[SR] Selective accuracy vs deferral rate
+fig_sr_melanoma_aware_deferral.png,[SR] Melanoma-sensitive vs global deferral

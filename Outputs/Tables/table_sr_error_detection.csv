@@ -1,0 +1,3 @@
+score,auroc_error_detection,aupr_error_detection,error_base_rate
+predictive_entropy,0.7844,0.5489,0.2911
+one_minus_confidence,0.8111,0.5768,0.2911

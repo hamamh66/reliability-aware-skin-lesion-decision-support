@@ -1,0 +1,2 @@
+best_model,accuracy,balanced_accuracy,f1_weighted,mean_confidence,expected_calibration_error,mean_entropy,overconfident_error_rate_conf_gt_0_80,low_confidence_fraction_conf_lt_0_50
+ExtraTrees,0.708936595107339,0.3946530017511464,0.6973263103710372,0.5803736475972561,0.1289502314710889,1.1208384472276822,0.0024962556165751375,0.48826759860209684
